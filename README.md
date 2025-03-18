@@ -42,3 +42,8 @@ Furthermore, preprocessing of BSDS500 training data Following SCN(https://github
 2. Test NYUDv2: Please run `test_nyu.py`
 3. Test KITTI: Please run `test_kitti2.py`
 4. Test DRIVE: Please run `test_drive.py`
+
+# Weights
+
+We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the
+
