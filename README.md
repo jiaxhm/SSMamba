@@ -1,4 +1,4 @@
 # SSMamba: Superpixel Segmentation with Mamba
-#✨ Getting Start
+# ✨ Getting Start
 
 # Environment Installation
