@@ -8,7 +8,8 @@ pixel segmentation
 ![Fig1](https://github.com/user-attachments/assets/08485668-68ac-48b4-8153-9b8e14d4f6a5)
 Overall framework of the proposed SSMamba. In the first stage, we employ CNN and Mamba to compute global attention. In the second stage, similar to the first stage, we use CNN and Mamba to generate local attention. The superpixel head, guided by the edge head, generates the final superpixels by integrating features from both stages using the FFU. In FFU, w_1 and w_2 are learnable weights.
 
-✅ We have submitted the paper to the IEEE Signal Processing Letters
+✅ We have submitted the paper to the IEEE Signal Processing Letters (2024/12/08)
+✅ We have updated the code (2025/03/18)
 
 # ✨ Getting Start
 
