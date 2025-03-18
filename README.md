@@ -29,4 +29,4 @@ Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN(https://github.
 3. KITTI: Following this link: http://www.cvlibs.net/datasets/kitti/
 4. DRIVE: Following this link: https://drive.grand-challenge.org/
 
-# Preprocessing of BSDS500 training data Following SCN(https://github.com/fuy34/superpixel_fcn)
+Furthermore, preprocessing of BSDS500 training data Following SCN(https://github.com/fuy34/superpixel_fcn)
