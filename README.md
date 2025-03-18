@@ -35,5 +35,10 @@ Furthermore, preprocessing of BSDS500 training data Following SCN(https://github
 1. Stage 1 Global Modeling was first trained using VMamba's pre-training weights.
 2. Next, Stage 2 Local Modeling is trained using Stage 1 Global Modeling and VMamba's pre-training weights.
 
-  Run `python main.py` to start the program.
+    Run `python main.py` to start the program.
 
+# Testing
+1. Test BSDS500: Please run `test_bsds.py`
+2. Test NYUDv2: Please run `test_nyu.py`
+3. Test KITTI: Please run `test_kitti2.py`
+4. Test DRIVE: Please run `test_drive.py`
