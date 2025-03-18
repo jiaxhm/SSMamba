@@ -1,1 +1,1 @@
-# SSMamba
+# SSMamba: Superpixel Segmentation with Mamba
