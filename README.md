@@ -47,3 +47,17 @@ Furthermore, preprocessing of BSDS500 training data Following SCN(https://github
 
 We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the
 
+# Result
+
+We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the
+
+# Cite US
+
+Please cite us if this work is helpful to you.
+
+# Acknowledgments
+
+The basic code is partially from the below repos.
+1. VMamba (https://github.com/MzeroMiko/VMamba)
+2. SCN (https://github.com/fuy34/superpixel_fcn)
+3. ESNet (DOI: 10.1109/TCSVT.2023.3347402)
