@@ -30,3 +30,7 @@ Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN(https://github.
 4. DRIVE: Following this link: https://drive.grand-challenge.org/
 
 Furthermore, preprocessing of BSDS500 training data Following SCN(https://github.com/fuy34/superpixel_fcn)
+
+# Training
+1. Stage 1 Global Modeling was first trained using VMamba's pre-training weights.
+2. Next, Stage 2 Local Modeling is trained using Stage 1 Global Modeling and VMamba's pre-training weights.
