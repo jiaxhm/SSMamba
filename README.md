@@ -50,7 +50,7 @@ We have placed each of the three weights (VMamba, Global Modeling, and Local Mod
 
 # Result
 
-We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
+We tested the ASA, BR-BP, CO,UE metrics (refer: https://doi.org/10.1016/j.cviu.2017.03.007) on the four datasets and their results are in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
 
 # Cite US
 
