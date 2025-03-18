@@ -29,7 +29,7 @@ Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN(https://github.
 3. KITTI: Following this link: http://www.cvlibs.net/datasets/kitti/
 4. DRIVE: Following this link: https://drive.grand-challenge.org/
 
-Furthermore, preprocessing of BSDS500 training data Following SCN(https://github.com/fuy34/superpixel_fcn)
+Furthermore, Preprocessing of BSDS500 training data Following SCN (https://github.com/fuy34/superpixel_fcn)
 
 # Training
 1. Stage 1 Global Modeling was first trained using VMamba's pre-training weights.
