@@ -18,6 +18,8 @@ tecture, enabling efficient interaction between global attributes
  Index Terms—Convolutional neural network, Mamba, super
 pixel segmentation
 
+🔖 We have submitted the paper to the IEEE Signal Processing Letters
+
 # ✨ Getting Start
 
 # Environment Installation
