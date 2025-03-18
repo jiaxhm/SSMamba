@@ -1,27 +1,12 @@
 # SSMamba: Superpixel Segmentation with Mamba
 
-Abstract—Deep convolutional networks have achieved remark
-able success in superpixel segmentation. However, they only focus
- on local features ignoring global attributes. The visual Mamba
- demonstrates an exceptional capability to capture long-range
- dependencies and offers a lower computational cost compared
- to the Transformer. Building on this inspiration, we propose a
- novel superpixel segmentation with Mamba, termed SSMamba.
- In SSMamba, Mamba is integrated into a global-local archi
-tecture, enabling efficient interaction between global attributes
- and local features to produce high-quality superpixels. The
- designed activation function further enhances the effectiveness
- of SSMamba. Extensive experiments demonstrate that SSMamba
- achieves superior performance on multiple public datasets, in
- terms of quantitative metric and visual comparison.
+Abstract—Deep convolutional networks have achieved remarkable success in superpixel segmentation. However, they only focus on local features ignoring global attributes. The visual Mamba demonstrates an exceptional capability to capture long-range dependencies and offers a lower computational cost compared to the Transformer. Building on this inspiration, we propose a novel superpixel segmentation with Mamba, termed SSMamba. In SSMamba, Mamba is integrated with a global-local architecture, enabling efficient interaction between global attributes and local features to produce high-quality superpixels. The designed activation function further enhances the effectiveness of SSMamba. Extensive experiments demonstrate that SSMamba achieves state-of-the-art performance across multiple public datasets, in terms of quantitative metrics and visual comparison.
  
  Index Terms—Convolutional neural network, Mamba, super
 pixel segmentation
 
 ![Fig1](https://github.com/user-attachments/assets/08485668-68ac-48b4-8153-9b8e14d4f6a5)
-Overall frameworkof theproposedSSMamba. In thefirst stage,weemployCNNandMamba tocomputeglobal attention. In thesecondstage,
- similar tothefirst stage,weuseCNNandMambatogeneratelocalattention.Thesuperpixelhead,guidedbytheedgehead,generates thefinal superpixels
- byintegratingfeaturesfrombothstagesusingtheFFU. InFFU,w1andw2arelearnableweights.
+Overall framework of the proposed SSMamba. In the first stage, we employ CNN and Mamba to compute global attention. In the second stage, similar to the first stage, we use CNN and Mamba to generate local attention. The superpixel head, guided by the edge head, generates the final superpixels by integrating features from both stages using the FFU. In FFU, w_1 and w_2 are learnable weights.
 
 ✅ We have submitted the paper to the IEEE Signal Processing Letters
 
