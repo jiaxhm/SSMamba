@@ -20,3 +20,5 @@ pixel segmentation
 # ✨ Getting Start
 
 # Environment Installation
+
+Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN
