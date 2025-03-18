@@ -41,7 +41,7 @@ Furthermore, Preprocessing of BSDS500 training data Following SCN (https://githu
 # Testing
 1. Test BSDS500: Please run `test_bsds.py`
 2. Test NYUDv2: Please run `test_nyu.py`
-3. Test KITTI: Please run `test_kitti2.py`
+3. Test KITTI: Please run `test_kitti.py`
 4. Test DRIVE: Please run `test_drive.py`
 
 # Weights
@@ -52,7 +52,7 @@ We have placed each of the three weights (VMamba, Global Modeling, and Local Mod
 
 We tested the ASA, BR-BP, CO, and UE metrics (refer: https://doi.org/10.1016/j.cviu.2017.03.007) on the four datasets and their CSV results are in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
 
-And, to facilitate the comparison of other good work with our approach, we also publish test files for four datasets in the `./eval_result`
+And, to facilitate the comparison of other good work with our approach, we also publish eval files for four datasets in the `./eval_result`
 
 # Cite US
 
