@@ -14,6 +14,7 @@ tecture, enabling efficient interaction between global attributes
  of SSMamba. Extensive experiments demonstrate that SSMamba
  achieves superior performance on multiple public datasets, in
  terms of quantitative metric and visual comparison.
+ 
  Index Terms—Convolutional neural network, Mamba, super
 pixel segmentation
 
@@ -21,7 +22,7 @@ pixel segmentation
 
 # Environment Installation
 
-Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN(https://github.com/fuy34/superpixel_fcn)
+Reference to VMamba (https://github.com/MzeroMiko/VMamba) and SCN (https://github.com/fuy34/superpixel_fcn)
 
 # Preparing Dataset
 1. BSDS500: Following this link: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
@@ -45,11 +46,11 @@ Furthermore, Preprocessing of BSDS500 training data Following SCN (https://githu
 
 # Weights
 
-We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the
+We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
 
 # Result
 
-We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the
+We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
 
 # Cite US
 
