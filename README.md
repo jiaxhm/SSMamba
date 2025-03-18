@@ -21,4 +21,4 @@ pixel segmentation
 
 # Environment Installation
 
-Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN
+Reference to VMamba(https://github.com/MzeroMiko/VMamba) and SCN(https://github.com/fuy34/superpixel_fcn)
