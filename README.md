@@ -32,6 +32,8 @@ Furthermore, Preprocessing of BSDS500 training data Following SCN (https://githu
 
     Run `python main.py` to start the program.
 
+   ✨ It's worth mentioning that SSMamba is trained exclusively on the BSDS500 training set and directly generates superpixels for NYUv2, KITTI, and DRIVE without requiring fine-tuning.
+
 # Testing
 1. Test BSDS500: Please run `test_bsds.py`
 2. Test NYUDv2: Please run `test_nyu.py`
