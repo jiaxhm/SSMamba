@@ -19,7 +19,9 @@ tecture, enabling efficient interaction between global attributes
 pixel segmentation
 
 ![Fig1](https://github.com/user-attachments/assets/08485668-68ac-48b4-8153-9b8e14d4f6a5)
-
+Overall frameworkof theproposedSSMamba. In thefirst stage,weemployCNNandMamba tocomputeglobal attention. In thesecondstage,
+ similar tothefirst stage,weuseCNNandMambatogeneratelocalattention.Thesuperpixelhead,guidedbytheedgehead,generates thefinal superpixels
+ byintegratingfeaturesfrombothstagesusingtheFFU. InFFU,w1andw2arelearnableweights.
 
 ✅ We have submitted the paper to the IEEE Signal Processing Letters
 
