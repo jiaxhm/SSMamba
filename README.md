@@ -41,8 +41,7 @@ Furthermore, Preprocessing of BSDS500 training data Following SCN (https://githu
 4. Test DRIVE: Please run `test_drive.py`
 
 # Weights
-
-
+We have placed each of the three weights (VMamba, Global Modeling, and Local Modeling) in the https://pan.baidu.com/s/1f0BU5w4NP0TI_iecK3Zr1g password: 94y8
 
 # Result
 
