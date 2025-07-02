@@ -67,7 +67,6 @@ Please cite us if this work is helpful to you ✨
   title={SSMamba: Superpixel Segmentation With Mamba}, 
   year={2025},
   volume={32},
-  number={},
   pages={1715-1719},
   keywords={Convolutional neural network; Mamba; superpixel segmentation},
   doi={10.1109/LSP.2025.3559425}}
