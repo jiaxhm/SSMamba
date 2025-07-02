@@ -53,9 +53,9 @@ And, to facilitate the comparison of other good work with our approach, we also 
 
 Please cite us if this work is helpful to you.
 
+```bibtex
 @ARTICLE{10960337,
   author={Jia, Xiaohong and Li, Yonghui and Jiao, Jianjun and Zhao, Yao and Xia, Zhiwei},
-  
   journal={IEEE Signal Processing Letters}, 
   title={SSMamba: Superpixel Segmentation With Mamba}, 
   year={2025},
@@ -64,17 +64,8 @@ Please cite us if this work is helpful to you.
   pages={1715-1719},
   keywords={Feature extraction;Head;Convolutional neural networks;Image edge detection;Computational modeling;Visualization;Transformers;Training;Data mining;Computational efficiency;Convolutional neural network;mamba;superpixel segmentation},
   doi={10.1109/LSP.2025.3559425}
-  }
-@inproceedings{xu2024leaning,
-  title={Learning Invariant Inter-pixel Correlations for Superpixel Generation},
-  author={Xu, Sen and Wei, Shikui and Ruan, Tao and Liao, Lixin},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={38},
-  number={6},
-  pages={6351-6359},
-  year={2024},
-  DOI={10.1609/aaai.v38i6.28454},
 }
+
 # Acknowledgments
 
 The basic code is partially from the below repos.
