@@ -62,7 +62,8 @@ Please cite us if this work is helpful to you.
   number={},
   pages={1715-1719},
   keywords={Feature extraction;Head;Convolutional neural networks;Image edge detection;Computational modeling;Visualization;Transformers;Training;Data mining;Computational efficiency;Convolutional neural network;mamba;superpixel segmentation},
-  doi={10.1109/LSP.2025.3559425}}
+  doi={10.1109/LSP.2025.3559425}
+  }
 
 # Acknowledgments
 
