@@ -56,9 +56,9 @@ The basic code is partially from the below repos.
 2. SCN (https://github.com/fuy34/superpixel_fcn)
 3. ESNet (DOI: 10.1109/TCSVT.2023.3347402)
 
-# Cite Us 📚 
+# 📚 Cite Us 
 
-Please cite us if this work is helpful to you ✨
+✨ Please cite us if this work is helpful to you 
 
 ```bibtex
 @ARTICLE{
