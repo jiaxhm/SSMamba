@@ -49,9 +49,9 @@ We tested the ASA, BR-BP, CO, and UE metrics (refer: https://doi.org/10.1016/j.c
 
 And, to facilitate the comparison of other good work with our approach, we also publish eval files for four datasets in the `./eval_result`
 
-# Cite US
+## 📚 Cite Us
 
-Please cite us if this work is helpful to you.
+Please cite us if this work is helpful to you ✨
 
 ```bibtex
 @ARTICLE{10960337,
@@ -65,6 +65,7 @@ Please cite us if this work is helpful to you.
   keywords={Feature extraction;Head;Convolutional neural networks;Image edge detection;Computational modeling;Visualization;Transformers;Training;Data mining;Computational efficiency;Convolutional neural network;mamba;superpixel segmentation},
   doi={10.1109/LSP.2025.3559425}
 }
+
 
 # Acknowledgments
 
