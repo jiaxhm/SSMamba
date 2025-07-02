@@ -61,7 +61,7 @@ The basic code is partially from the below repos.
 Please cite us if this work is helpful to you ✨
 
 ```bibtex
-@ARTICLE{10960337,
+@ARTICLE{
   author={Xiaohong Jia, Yonghui Li, Jianjun Jiao, Yao Zhao, and Zhiwei Xia.},
   journal={IEEE Signal Processing Letters}, 
   title={SSMamba: Superpixel Segmentation With Mamba}, 
